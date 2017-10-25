@@ -6,6 +6,7 @@ A code generating wizard that works on  Fredrik Ludvigsen's SerializableDictiona
 
 # Guide
 - Enter the Dictionary Key and Value types. These are case sensitive. The wizard does not check if the types are actually available
+
 ![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-1.jpg)
 
 
