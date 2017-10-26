@@ -71,7 +71,7 @@ internal class Serializable{9}Template : SerializableKeyValueTemplate<{10}, {11}
 
             string op = String.Format(
                 TEMPLATE,
-                baseName,
+                keyType,
                 valueType,
                 baseName,
                 baseName,
