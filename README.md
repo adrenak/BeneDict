@@ -7,15 +7,15 @@ A code generating wizard that works on  Fredrik Ludvigsen's SerializableDictiona
 # Guide
 - Enter the Dictionary Key and Value types. These are case sensitive. The wizard does not check if the types are actually available
 
-![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-1.jpg)
+![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/b1.jpg)
 
 
 - One button at a time, the code is copied to your clipboard.
-![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-2.jpg)
+![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/b2.jpg)
   
   
 - Paste the generated code in the implementations files and access your *baseName*Dictionary class.
-![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-3.jpg)
+![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/b3.jpg)
 
 # Contact
 [vatsalAmbastha@twitter](https://twitter.com/VatsalAmbastha)  
