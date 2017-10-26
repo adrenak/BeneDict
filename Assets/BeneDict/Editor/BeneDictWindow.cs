@@ -1,8 +1,4 @@
-﻿// Creates a simple wizard that lets you create a Light GameObject
-// or if the user clicks in "Apply", it will set the color of the currently
-// object selected to red
-
-using System;
+﻿using System;
 using UnityEditor;
 using UnityEngine;
 
