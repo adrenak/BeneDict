@@ -1,4 +1,4 @@
-SerializableDictionary
+SerializableDictionary on the Unity3D wiki/Unify Community
 
 Author: Fredrik Ludvigsen (Steinbitglis)
 
