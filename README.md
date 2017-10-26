@@ -9,11 +9,11 @@ A code generating wizard that works on  Fredrik Ludvigsen's SerializableDictiona
 ![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-1.jpg)
 
 
-- Click Generate, the code is copied to your clipboard.
+- One button at a time, the code is copied to your clipboard.
 ![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-2.jpg)
   
   
-- Paste the generated code anywhere in your project (or the implementations file provided) and access your *baseName*Dictionary class.
+- Paste the generated code in the implementations files and access your *baseName*Dictionary class.
 ![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/benedict-3.jpg)
 
 # Contact
