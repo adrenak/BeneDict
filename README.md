@@ -11,10 +11,12 @@ A code generating wizard that works on  Fredrik Ludvigsen's SerializableDictiona
 
 
 - One button at a time, the code is copied to your clipboard.
+
 ![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/b2.jpg)
   
   
 - Paste the generated code in the implementations files and access your *baseName*Dictionary class.
+
 ![](https://raw.githubusercontent.com/adrenak/BeneDict/master/git-img/b3.jpg)
 
 # Contact
